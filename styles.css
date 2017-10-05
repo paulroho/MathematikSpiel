@@ -1,0 +1,39 @@
+*{
+    font-size: large;
+}
+
+
+body{
+    background-color:rgb(21, 216, 21);
+}
+
+h1{ 
+    font-size: 2em;
+    color: white;
+    text-align: center;
+}
+
+div#Zahlen{
+    color: #2828DB;
+    text-align: right;
+    border: 5px dashed #E90E0E;
+    width: 30em;
+    margin: auto;
+    font-family: Arial;
+}
+
+div#Zahlen div {
+    font-size: 5em;
+}
+
+div#Zahlen input {
+    color: #2828DB;
+    text-align: right;
+    font-size: 5em;
+    width: 6em;
+    font-family: Arial;
+}
+
+div#Zahlen button {
+    font-size: 5em;
+}
